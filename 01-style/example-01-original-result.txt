@@ -1,0 +1,25 @@
+************* Module example-01
+01-style/example-01.py:9:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:10:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:11:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:12:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:13:0: C0301: Line too long (131/100) (line-too-long)
+01-style/example-01.py:13:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:14:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+01-style/example-01.py:23:0: C0305: Trailing newlines (trailing-newlines)
+01-style/example-01.py:1:0: C0103: Module name "example-01" doesn't conform to snake_case naming style (invalid-name)
+01-style/example-01.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+01-style/example-01.py:3:0: C0103: Class name "timer_decorator" doesn't conform to PascalCase naming style (invalid-name)
+01-style/example-01.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+01-style/example-01.py:4:4: E0213: Method should have "self" as first argument (no-self-argument)
+01-style/example-01.py:8:4: E0213: Method should have "self" as first argument (no-self-argument)
+01-style/example-01.py:9:12: C0103: Variable name "startTime" doesn't conform to snake_case naming style (invalid-name)
+01-style/example-01.py:11:12: C0103: Variable name "deltaTime" doesn't conform to snake_case naming style (invalid-name)
+01-style/example-01.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+01-style/example-01.py:16:0: C0103: Function name "calculateProductAMillion_times" doesn't conform to snake_case naming style (invalid-name)
+01-style/example-01.py:16:0: C0116: Missing function or method docstring (missing-function-docstring)
+01-style/example-01.py:18:8: C0103: Variable name "LARGE_NUMBER" doesn't conform to snake_case naming style (invalid-name)
+
+--------------------------------------------------------------------
+Your code has been rated at -5.56/10 (previous run: -5.56/10, +0.00)
+
